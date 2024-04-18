@@ -37,7 +37,13 @@ From the graph below, we can see the discrminator's loss is pretty stable, where
 ![image](https://github.com/LeeChuh/robot_learning_hw_2/assets/60937990/eaeff012-8f5b-469b-85a0-b03ffa74f4b4)
 
 # 7. Result analysis
+- We try to add `robot0_eye_in_hand_image` into policy training and discriminator training. However, the result got worse. One hypothesis is when the robot arm got rotated, this camera might not capture the full information of the object information.
+- We are surprised that the model cannot perform well in simple stack task.
+- We might switch to a better model for generation, such as variational inference model.
 
+# Videos
+## Stack
+### D0
 
 
 
