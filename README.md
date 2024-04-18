@@ -47,6 +47,15 @@ From the graph below, we can see the discrminator's loss is pretty stable, where
 
 https://github.com/LeeChuh/robot_learning_hw_2/assets/60937990/38dff63f-0e8f-4007-97df-1621ac796f0c
 
+## Coffee
+### D0
+https://github.com/LeeChuh/robot_learning_hw_2/assets/60937990/1f2db807-418a-4533-9dcd-8e956652b994
+
+## Clean-Up
+### D0
+
+https://github.com/LeeChuh/robot_learning_hw_2/assets/60937990/1831adc4-e95e-47f9-af73-e7c2d99f4486
+
 
 
 
