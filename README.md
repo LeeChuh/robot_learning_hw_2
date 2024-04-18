@@ -45,6 +45,9 @@ From the graph below, we can see the discrminator's loss is pretty stable, where
 ## Stack
 ### D0
 
+https://github.com/LeeChuh/robot_learning_hw_2/assets/60937990/38dff63f-0e8f-4007-97df-1621ac796f0c
+
+
 
 
 
